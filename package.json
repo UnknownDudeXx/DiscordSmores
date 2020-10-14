@@ -1,7 +1,7 @@
 {
-  "name": "discordsmores",
+  "name": "discordvirtualfood",
   "version": "2.0.0",
-  "description": "A Discord bot to deliver you virtual smores!",
+  "description": "A Discord bot to deliver you virtual food!",
   "main": "dsmores.js",
   "scripts": {
     "start": "node dsmors.js"
